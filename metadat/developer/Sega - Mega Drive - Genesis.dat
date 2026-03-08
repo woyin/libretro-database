@@ -4277,7 +4277,7 @@ game (
 
 game (
 	comment "Faery Tale Adventure, The (USA, Europe)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc 963F4969 )
 )
 
@@ -6185,7 +6185,7 @@ game (
 
 game (
 	comment "King's Bounty - The Conqueror's Quest (USA, Europe)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc AA68A92E )
 )
 
@@ -7415,13 +7415,13 @@ game (
 
 game (
 	comment "Might and Magic - Gates to Another World (USA, Europe)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc F509145F )
 )
 
 game (
 	comment "Might and Magic III - Isles of Terra (USA) (Proto)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc 6EF7104A )
 )
 

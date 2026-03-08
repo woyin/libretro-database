@@ -7403,13 +7403,13 @@ game (
 
 game (
 	comment "Might and Magic - Gates to Another World (USA, Europe)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc F509145F )
 )
 
 game (
 	comment "Might and Magic III - Isles of Terra (USA) (Proto)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc 6EF7104A )
 )
 

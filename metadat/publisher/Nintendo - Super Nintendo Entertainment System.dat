@@ -10715,31 +10715,31 @@ game (
 
 game (
 	comment "Might and Magic - Book II (Japan)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc E60EB6C0 )
 )
 
 game (
 	comment "Might and Magic II (Europe)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc 4062244B )
 )
 
 game (
 	comment "Might and Magic II (USA) (Proto 2)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc 9EC5C2C2 )
 )
 
 game (
 	comment "Might and Magic II (Germany)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc B117DF8A )
 )
 
 game (
 	comment "Might and Magic II (USA) (Proto 1)"
-	publisher "New World Computing's"
+	publisher "New World Computing"
 	rom ( crc 566C43EC )
 )
 

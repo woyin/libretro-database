@@ -10733,31 +10733,31 @@ game (
 
 game (
 	comment "Might and Magic - Book II (Japan)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc E60EB6C0 )
 )
 
 game (
 	comment "Might and Magic II (Europe)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc 4062244B )
 )
 
 game (
 	comment "Might and Magic II (USA) (Proto 2)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc 9EC5C2C2 )
 )
 
 game (
 	comment "Might and Magic II (Germany)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc B117DF8A )
 )
 
 game (
 	comment "Might and Magic II (USA) (Proto 1)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc 566C43EC )
 )
 

@@ -9371,7 +9371,7 @@ game (
 game (
 	name "Anvil of DawnE95 (1995)"
 	releaseyear "1995"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "LOADPATS.EXE" size 49194 crc 066c5e51 )
 )
 
@@ -52568,7 +52568,7 @@ game (
 	name "Empire Deluxe (1993)"
 	genre "Strategy"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "EMPIRE.EXE" size 512934 crc 5a4c6ca7 )
 )
 
@@ -52576,7 +52576,7 @@ game (
 	name "Empire Deluxe (1993)"
 	genre "Strategy"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "RANDMAPW.EXE" size 64960 crc 1350706d )
 )
 
@@ -52584,7 +52584,7 @@ game (
 	name "Empire Deluxe (1994)"
 	genre "Strategy"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "EMPIRE.EXE" size 522216 crc c055cc85 )
 )
 
@@ -52592,7 +52592,7 @@ game (
 	name "Empire Deluxea (1993)"
 	genre "Strategy"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "ULTRAMID.EXE" size 34212 crc d6d25c38 )
 )
 
@@ -68685,14 +68685,14 @@ game (
 game (
 	name "Hammer of the Gods (1994)"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "HAMMER.BAT" size 592 crc 38feb439 )
 )
 
 game (
 	name "Hammer of the Gods (1994)"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "HAMMER.BAT" size 3086 crc a44b0859 )
 )
 
@@ -70814,7 +70814,7 @@ game (
 	name "Heroes of Might and Magic (1995)"
 	genre "Strategy"
 	releaseyear "1995"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "HEROES.EXE" size 1218871 crc dbc238b8 )
 )
 
@@ -75620,7 +75620,7 @@ game (
 	name "Inherit the Earth- Quest for the Orb (1994)"
 	genre "Adventure"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "ITE.EXE" size 81598 crc 128c229a )
 )
 
@@ -75635,7 +75635,7 @@ game (
 	name "Inherit the Earth- Quest for the Orb (1994)"
 	genre "Adventure"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "oldgames.bat" size 2525 crc b9693bc0 )
 )
 
@@ -75643,7 +75643,7 @@ game (
 	name "Inherit the Earth- Quest for the Orb (1994)"
 	genre "Adventure"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "start.bat" size 2525 crc b9693bc0 )
 )
 
@@ -76607,7 +76607,7 @@ game (
 	name "Iron Cross (1994)"
 	genre "Strategy"
 	releaseyear "1994"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "IC.EXE" size 594513 crc 4b3a51dd )
 )
 
@@ -79236,7 +79236,7 @@ game (
 	name "Joe & Mac- Caveman Ninja (1992)"
 	genre "Trainer"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "CAVETRN.COM" size 280 crc 1ead7ba2 )
 )
 
@@ -79244,7 +79244,7 @@ game (
 	name "Joe & Mac- Caveman Ninja (1992)"
 	genre "Action"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "START.COM" size 254 crc 09c2ebff )
 )
 
@@ -79252,7 +79252,7 @@ game (
 	name "Joe & Mac- Caveman Ninja (1993)"
 	genre "Action"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "CAVEMAN.EXE" size 34920 crc 19cb153c )
 )
 
@@ -82208,35 +82208,35 @@ game (
 game (
 	name "King's Bounty (1990)"
 	releaseyear "1990"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "DAT!.EXE" size 6640 crc 1ed8a3b7 )
 )
 
 game (
 	name "King's Bounty (1990)"
 	releaseyear "1990"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "KB.COM" size 284 crc 6fc15ef5 )
 )
 
 game (
 	name "King's Bounty (1990)"
 	releaseyear "1990"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "KB.EXE" size 79839 crc 899c742c )
 )
 
 game (
 	name "King's Bounty (1990)"
 	releaseyear "1990"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "START.BAT" size 38 crc 8cf6f571 )
 )
 
 game (
 	name "King's Bounty (1991)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "KB.EXE" size 79863 crc 1227eb76 )
 )
 
@@ -99346,7 +99346,7 @@ game (
 	name "Might and Magic II- Gates to Another World (1989)"
 	genre "Role-playing (RPG)"
 	releaseyear "1989"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM2.EXE" size 82768 crc 8349f734 )
 )
 
@@ -99354,7 +99354,7 @@ game (
 	name "Might and Magic II- Gates to Another World (1989)"
 	genre "Role-playing (RPG)"
 	releaseyear "1989"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM2.EXE" size 77824 crc 6e4d5f65 )
 )
 
@@ -99370,7 +99370,7 @@ game (
 	name "Might and Magic III- Isles of Terra  (1991)"
 	genre "Role-playing (RPG)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM3.EXE" size 280704 crc f09f95ac )
 )
 
@@ -99386,7 +99386,7 @@ game (
 	name "Might and Magic III- Isles of Terra (1991)"
 	genre "Role-playing (RPG)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM3.EXE" size 280688 crc 7ea1f078 )
 )
 
@@ -99394,7 +99394,7 @@ game (
 	name "Might and Magic III- Isles of Terra r910902 (1991)"
 	genre "Role-playing (RPG)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM3.EXE" size 279856 crc 8af1a9ec )
 )
 
@@ -99402,21 +99402,21 @@ game (
 	name "Might and Magic III- Isles of Terra r911001 (1991)"
 	genre "Role-playing (RPG)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM3.EXE" size 280032 crc 2ad20b09 )
 )
 
 game (
 	name "Might and Magic Trilogy (1995)"
 	releaseyear "1995"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "START.BAT" size 292 crc 963796d2 )
 )
 
 game (
 	name "Might and Magic, Book I- Secret of the Inner Sanctum (1987)"
 	releaseyear "1987"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM.EXE" size 119264 crc f40b3193 )
 )
 
@@ -99424,7 +99424,7 @@ game (
 	name "Might and Magic, Book I- Secret of the Inner Sanctum r871013 (1987)"
 	genre "Role-playing (RPG)"
 	releaseyear "1987"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM.EXE" size 119232 crc ae91e034 )
 )
 
@@ -99432,7 +99432,7 @@ game (
 	name "Might and Magic, Book I- Secret of the Inner Sanctum r871118 (1987)"
 	genre "Role-playing (RPG)"
 	releaseyear "1987"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM.EXE" size 119264 crc f129c00d )
 )
 
@@ -99440,21 +99440,21 @@ game (
 	name "Might and Magic- Clouds of Xeen (1992)"
 	genre "Trainer"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XENTRFLT.COM" size 707 crc dbe57db0 )
 )
 
 game (
 	name "Might and Magic- Clouds of Xeen (1992)"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.COM" size 1445 crc 06c050c1 )
 )
 
 game (
 	name "Might and Magic- Clouds of Xeen (1992)"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM4EDIT.EXE" size 35581 crc fb7828cf )
 )
 
@@ -99462,7 +99462,7 @@ game (
 	name "Might and Magic- Clouds of Xeen (1992)"
 	genre "Role-playing (RPG)"
 	releaseyear "1992"
-	developer "Softgold Computerspiele GmbH, New World Computing, Inc."
+	developer "Softgold Computerspiele GmbH / New World Computing"
 	rom ( name "XEEN.EXE" size 38162 crc e2e23a2b )
 )
 
@@ -99470,7 +99470,7 @@ game (
 	name "Might and Magic- Clouds of Xeen (1992)"
 	genre "Role-playing (RPG)"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 90400 crc 8d16eec2 )
 )
 
@@ -99478,7 +99478,7 @@ game (
 	name "Might and Magic- Clouds of Xeen (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 38350 crc e7cba58d )
 )
 
@@ -99486,7 +99486,7 @@ game (
 	name "Might and Magic- Clouds of Xeen r920922 (1992)"
 	genre "Role-playing (RPG)"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 38228 crc 7d3d0219 )
 )
 
@@ -99494,21 +99494,21 @@ game (
 	name "Might and Magic- Clouds of Xeen r921008 (1992)"
 	genre "Role-playing (RPG)"
 	releaseyear "1992"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 38225 crc 093b6e77 )
 )
 
 game (
 	name "Might and Magic- Darkside of Xeen (1993)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "exmm5cht.com" size 1320 crc 54470ad1 )
 )
 
 game (
 	name "Might and Magic- Darkside of Xeen (1993)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "d-xensge.exe" size 3566 crc 3d999a7c )
 )
 
@@ -99516,14 +99516,14 @@ game (
 	name "Might and Magic- Darkside of Xeen (1993)"
 	genre "Trainer"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "mm5trn.exe" size 5233 crc 1549f364 )
 )
 
 game (
 	name "Might and Magic- Darkside of Xeen (1993)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "MM5CRACK.COM" size 442 crc 12d5428f )
 )
 
@@ -99539,14 +99539,14 @@ game (
 	name "Might and Magic- Darkside of Xeen - La Face Cachee de Xeen (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 53613 crc 02610cf5 )
 )
 
 game (
 	name "Might and Magic- Darkside of Xeen patch r930719 (1993)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 53681 crc b9ad93d2 )
 )
 
@@ -99554,7 +99554,7 @@ game (
 	name "Might and Magic- Darkside of Xeen r930519 (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 53647 crc 12df8fd6 )
 )
 
@@ -99562,7 +99562,7 @@ game (
 	name "Might and Magic- Darkside of Xeen r930601 (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 53681 crc 8415886f )
 )
 
@@ -99570,7 +99570,7 @@ game (
 	name "Might and Magic- Darkside of Xeen r930719 (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 53681 crc b9ad93d2 )
 )
 
@@ -99578,7 +99578,7 @@ game (
 	name "Might and Magic- Darkside of Xeen r930812 (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "Softgold Computerspiele GmbH, New World Computing, Inc."
+	developer "Softgold Computerspiele GmbH / New World Computing"
 	rom ( name "XEEN.EXE" size 53682 crc 81b08279 )
 )
 
@@ -99586,7 +99586,7 @@ game (
 	name "Might and Magic- Darkside of Xeen r930827 (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "Softgold Computerspiele GmbH, New World Computing, Inc."
+	developer "Softgold Computerspiele GmbH / New World Computing"
 	rom ( name "XEEN.EXE" size 53682 crc f547902c )
 )
 
@@ -99594,7 +99594,7 @@ game (
 	name "Might and Magic- Les nuages de Xeen (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "XEEN.EXE" size 38270 crc bad3101f )
 )
 
@@ -107669,7 +107669,7 @@ game (
 	name "Nuclear War (1989)"
 	genre "Strategy"
 	releaseyear "1989"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "NUKEWAR.EXE" size 190446 crc b0856898 )
 )
 
@@ -107677,7 +107677,7 @@ game (
 	name "Nuclear War (1989)"
 	genre "Strategy"
 	releaseyear "1989"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "NUKEWAR.EXE" size 190446 crc 9400a172 )
 )
 
@@ -117645,14 +117645,14 @@ game (
 game (
 	name "Planet's Edge- The Point of No Return (1991)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "SPACE.EXE" size 210468 crc 1cef8f0b )
 )
 
 game (
 	name "Planet's Edge- The Point of no Return (1991)"
 	releaseyear "1991"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "PE_CHEAT.EXE" size 2803 crc 0c793de5 )
 )
 
@@ -152917,7 +152917,7 @@ game (
 	name "Swords of Xeen (1993)"
 	genre "Role-playing (RPG)"
 	releaseyear "1993"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "SWORDS.EXE" size 231852 crc 977240a1 )
 )
 
@@ -164711,7 +164711,7 @@ game (
 game (
 	name "Tunnels & Trolls- Crusaders of Khazan (1990)"
 	releaseyear "1990"
-	developer "New World Computing, Inc."
+	developer "New World Computing"
 	rom ( name "TNTEGA.EXE" size 238833 crc 6d4e7f88 )
 )
 
@@ -172449,7 +172449,7 @@ game (
 	name "Wetlands (1996)"
 	genre "Action"
 	releaseyear "1996"
-	developer "New World Computing, Inc., DS Game Channel"
+	developer "New World Computing / DS Game Channel"
 	rom ( name "WETLANDS.EXE" size 360151 crc d3c66c20 )
 )
 

@@ -11243,13 +11243,13 @@ game (
 
 game (
 	comment "Might & Magic - Secret of the Inner Sanctum (USA)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc AB3DC7A6 )
 )
 
 game (
 	comment "Might and Magic - Book One - Secret of the Inner Sanctum (Japan)"
-	developer "New World Computing's"
+	developer "New World Computing"
 	rom ( crc 63CB38D2 )
 )
 
