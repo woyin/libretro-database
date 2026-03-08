@@ -1229,13 +1229,13 @@ game (
 
 game (
 	comment "Army Men - Operation Green (USA) (En,Fr,De,Es,It)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 6D174E28 )
 )
 
 game (
 	comment "Army Men - Turf Wars (USA)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 65AC74CC )
 )
 
@@ -3659,7 +3659,7 @@ game (
 
 game (
 	comment "Cubix - Robots for Everyone - Clash 'N Bash (USA)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 4171C811 )
 )
 
@@ -7457,7 +7457,7 @@ game (
 
 game (
 	comment "High Heat Major League Baseball 2002 (USA, Europe)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 6EA3F4E4 )
 )
 
@@ -7469,7 +7469,7 @@ game (
 
 game (
 	comment "High Heat Major League Baseball 2003 (USA)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 59D72CB9 )
 )
 
@@ -7481,7 +7481,7 @@ game (
 
 game (
 	comment "High Heat Major League Baseball 2003 (Japan) (En)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 0D9043A4 )
 )
 
@@ -8141,7 +8141,7 @@ game (
 
 game (
 	comment "Jonny Moseley Mad Trix (USA, Europe) (En,Fr,De,Es,It)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 96488632 )
 )
 

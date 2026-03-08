@@ -714,7 +714,7 @@ game (
 game (
 	name "Army Men Sarge's War (USA)"
 	serial "GAME5H"
-	developer "3DO"
+	developer "The 3DO Company"
 	publisher "Global Star Software"
 	releaseyear 2004
 	releasemonth 8
@@ -730,8 +730,8 @@ game (
 game (
 	name "Army Men: Air Combat The Elite Missions (USA)"
 	serial "GACE5H"
-	developer "3DO"
-	publisher "3DO"
+	developer "The 3DO Company"
+	publisher "The 3DO Company"
 	releaseyear 2003
 	releasemonth 3
 	releaseday 26
@@ -747,7 +747,7 @@ game (
 	name "Army Men: RTS (USA)"
 	serial "GARE5H"
 	developer "Pandemic Studios / Coyote"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	releaseyear 2004
 	releasemonth 11
 	releaseday 10
@@ -3728,7 +3728,7 @@ game (
 	name "Cubix: Robots for Everyone Showdown (USA)"
 	serial "GCAE5H"
 	developer "Blitz Games"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	releaseyear 2003
 	releasemonth 6
 	releaseday 2

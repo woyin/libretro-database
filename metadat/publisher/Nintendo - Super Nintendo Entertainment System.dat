@@ -13505,7 +13505,7 @@ game (
 
 game (
 	comment "Power Slide (Europe) (Proto) (1994-04-12)"
-	publisher "3DO"
+	publisher "The 3DO Company"
 	rom ( crc 65CE3729 )
 )
 

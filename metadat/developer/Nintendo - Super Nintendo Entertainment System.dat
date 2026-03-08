@@ -13523,7 +13523,7 @@ game (
 
 game (
 	comment "Power Slide (Europe) (Proto) (1994-04-12)"
-	developer "3DO"
+	developer "The 3DO Company"
 	rom ( crc 65CE3729 )
 )
 
