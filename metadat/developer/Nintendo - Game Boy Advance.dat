@@ -1811,7 +1811,7 @@ game (
 
 game (
 	comment "Bible Game, The (USA)"
-	developer "505 Games"
+	developer "Alpine Studios"
 	rom ( crc CEE6904E )
 )
 
