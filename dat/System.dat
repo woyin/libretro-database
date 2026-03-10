@@ -89,6 +89,8 @@ game (
     rom ( name JiffyDOS_1541-II.bin size 16384 crc DD409902 md5 1b1e985ea5325a1f46eb7fd9681707bf sha1 b1a5b826304d3df2a27d7163c6a81a532e040d32 )
     rom ( name JiffyDOS_1571_repl310654.bin size 32768 crc FE6CAC6D md5 41c6cc528e9515ffd0ed9b180f8467c0 sha1 d4b79b60cf1eaa399d0932200eb7811e00455249 )
     rom ( name JiffyDOS_1581.bin size 32768 crc 98873D0F md5 20b6885c6dc2d42c38754a365b043d71 sha1 65bbf2be7bcd5bdcbff609d6c66471ffb9d04bfe )
+	rom ( name scpu-dos-1.4.bin md5 cda2fcd2e1f0412029383e51dd472095 )
+	rom ( name scpu-dos-2.04.bin md5 b2869f8678b8b274227f35aad26ba509 )
 
 	comment "Dinothawr"
 	rom ( name Dinothawr.zip size 5763199 crc 683ed4ad md5 a2e891e330d146c4046c2b622fc31462 sha1 693d8bb4d992c645e6413a57195acf4eca2f5a2e )
