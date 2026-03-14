@@ -701,19 +701,19 @@ game (
 
 game (
 	comment "Beatmania GB (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 0D9CB195 )
 )
 
 game (
 	comment "Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 59BEB372 )
 )
 
 game (
 	comment "Beatmania GB - Gotcha Mix 2 (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc B92A6D16 )
 )
 
@@ -1421,19 +1421,19 @@ game (
 
 game (
 	comment "Dance Dance Revolution GB 2 (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 565FEC36 )
 )
 
 game (
 	comment "Dance Dance Revolution GB (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc C64FF2B6 )
 )
 
 game (
 	comment "Dance Dance Revolution GB 3 (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 58F26F36 )
 )
 
@@ -1445,13 +1445,13 @@ game (
 
 game (
 	comment "Dancing Furby (Japan) (GB Compatible)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 3263F692 )
 )
 
 game (
 	comment "Dance Dance Revolution GB - Disney Mix (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc B31A59BF )
 )
 
@@ -5435,7 +5435,7 @@ game (
 
 game (
 	comment "Ohasuta Dance Dance Revolution GB (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc E338C118 )
 )
 
@@ -5747,13 +5747,13 @@ game (
 
 game (
 	comment "Pocket Music (Europe) (En,Fr,De,Es,It)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 1BFB531E )
 )
 
 game (
 	comment "Pocket Music (USA) (En,Fr,De,Es,It) (Proto)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc C4387812 )
 )
 
@@ -6041,19 +6041,19 @@ game (
 
 game (
 	comment "Pop'n Music GB (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 07E6CA95 )
 )
 
 game (
 	comment "Pop'n Music GB - Animation Melody (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 9B2429A7 )
 )
 
 game (
 	comment "Pop'n Music GB - Disney Tunes (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 48C3C6EF )
 )
 
@@ -7757,7 +7757,7 @@ game (
 
 game (
 	comment "Sylvanian Melodies - Mori no Nakama to Odori Masho! (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 6DD8AC91 )
 )
 

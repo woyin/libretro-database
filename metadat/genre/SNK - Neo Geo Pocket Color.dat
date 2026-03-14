@@ -41,7 +41,7 @@ game (
 
 game (
 	comment "Cool Cool Jam (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 9B2A8331 )
 )
 
@@ -65,7 +65,7 @@ game (
 
 game (
 	comment "Cool Cool Jam (USA) (Proto)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 4D8D27F0 )
 )
 

@@ -1073,7 +1073,7 @@ game (
 
 game (
 	comment "American Idol (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc F053FFBF )
 )
 
@@ -2411,19 +2411,19 @@ game (
 
 game (
 	comment "Britney's Dance Beat (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 443198D8 )
 )
 
 game (
 	comment "Britney's Dance Beat (Europe) (En,De)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc CFE69825 )
 )
 
 game (
 	comment "Britney's Dance Beat (Europe) (En,Fr)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 021CDA8E )
 )
 
@@ -2441,7 +2441,7 @@ game (
 
 game (
 	comment "Britney's Dance Beat (Europe)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 886121A8 )
 )
 
@@ -2957,7 +2957,7 @@ game (
 
 game (
 	comment "Cheetah Girls, The (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc E2EFC2AA )
 )
 
@@ -3929,7 +3929,7 @@ game (
 
 game (
 	comment "Deutschland Sucht den Superstar (Germany)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 51F50F7D )
 )
 
@@ -7061,13 +7061,13 @@ game (
 
 game (
 	comment "Happy Feet (Europe) (En,Fr,De,Es,It)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 7A53173C )
 )
 
 game (
 	comment "Happy Feet (USA) (En,Fr)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 682617CF )
 )
 
@@ -9179,7 +9179,7 @@ game (
 
 game (
 	comment "Lizzie McGuire 3 - Homecoming Havoc (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc A2843980 )
 )
 
@@ -9881,7 +9881,7 @@ game (
 
 game (
 	comment "Mary-Kate and Ashley - Girls Night Out (USA, Europe)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 8AF3F3AD )
 )
 
@@ -10619,13 +10619,13 @@ game (
 
 game (
 	comment "Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc F786FFA7 )
 )
 
 game (
 	comment "Mermaid Melody - Pichi Pichi Pitch - Pichi Pichitto Live Start! (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 7A4FDEC3 )
 )
 
@@ -12557,7 +12557,7 @@ game (
 
 game (
 	comment "Pocket Music (Europe) (En,Fr,De,Es,It)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc A3FD418A )
 )
 
@@ -12923,7 +12923,7 @@ game (
 
 game (
 	comment "Pop Idol (Europe)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc B9A7E60D )
 )
 
@@ -15101,13 +15101,13 @@ game (
 
 game (
 	comment "Space Channel 5 - Ulala's Cosmic Attack (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 0666F37A )
 )
 
 game (
 	comment "Space Channel 5 - Ulala's Cosmic Attack (Europe)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 0F105694 )
 )
 

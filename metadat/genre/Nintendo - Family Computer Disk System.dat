@@ -401,7 +401,7 @@ game (
 
 game (
 	comment "Doremikko (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc BEE7A47B )
 )
 
@@ -647,13 +647,13 @@ game (
 
 game (
 	comment "Family Composer (Japan) (Disk Writer)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 01E451B9 )
 )
 
 game (
 	comment "Family Composer (Japan) (Rev 1) (Possible Proto)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 49FF37AF )
 )
 

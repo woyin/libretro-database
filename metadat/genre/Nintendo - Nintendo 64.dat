@@ -497,19 +497,19 @@ game (
 
 game (
 	comment "Blues Brothers 2000 (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 109907B5 )
 )
 
 game (
 	comment "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 56507793 )
 )
 
 game (
 	comment "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 3420342E )
 )
 
@@ -521,7 +521,7 @@ game (
 
 game (
 	comment "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 3420342E )
 )
 
@@ -1001,7 +1001,7 @@ game (
 
 game (
 	comment "Dance Dance Revolution - Disney Dancing Museum (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc E085AFA0 )
 )
 
@@ -6689,25 +6689,25 @@ game (
 
 game (
 	comment "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 1AC60460 )
 )
 
 game (
 	comment "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 8FB41658 )
 )
 
 game (
 	comment "Blues Brothers 2000 (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc C6F49764 )
 )
 
 game (
 	comment "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc BB1CA04D )
 )
 
@@ -7187,7 +7187,7 @@ game (
 
 game (
 	comment "Dance Dance Revolution - Disney Dancing Museum (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 43EE0117 )
 )
 

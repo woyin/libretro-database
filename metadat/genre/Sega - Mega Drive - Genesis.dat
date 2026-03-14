@@ -29,7 +29,7 @@ game (
 
 game (
 	comment "16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc 67271302 )
 )
 
@@ -7571,7 +7571,7 @@ game (
 
 game (
 	comment "Miracle Piano Teaching System, The (USA)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc A719542E )
 )
 

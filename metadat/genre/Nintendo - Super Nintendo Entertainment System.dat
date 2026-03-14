@@ -12191,7 +12191,7 @@ game (
 
 game (
 	comment "Ongaku Tsukuru Kanadeeru (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dance"
 	rom ( crc C79C123F )
 )
 
