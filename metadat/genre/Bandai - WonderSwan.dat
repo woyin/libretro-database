@@ -713,7 +713,7 @@ game (
 
 game (
 	comment "Turntablist - DJ Battle (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 0D5171F0 )
 )
 

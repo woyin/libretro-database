@@ -3839,19 +3839,19 @@ game (
 
 game (
 	comment "D+Pad Hero (USA) (v1.1) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 808D305E )
 )
 
 game (
 	comment "D+Pad Hero II (USA) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 1B63956A )
 )
 
 game (
 	comment "D+Pad Hero (USA) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc B9AB283E )
 )
 
@@ -8045,7 +8045,7 @@ game (
 
 game (
 	comment "Hyperbeatz (World) (v1.2.1) (Aftermarket) (Homebrew)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc F312583E )
 )
 
@@ -8951,7 +8951,7 @@ game (
 
 game (
 	comment "Karaoke Studio (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 15C43766 )
 )
 
@@ -9269,19 +9269,19 @@ game (
 
 game (
 	comment "Kira Kira Star Night (Japan) (En) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc FE68CA35 )
 )
 
 game (
 	comment "Kira Kira Star Night DX (Japan) (En) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 38F253E8 )
 )
 
 game (
 	comment "Kira Kira Star Night DX - Tournament Edition (Japan) (En) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 8C033F98 )
 )
 

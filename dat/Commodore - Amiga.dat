@@ -751,7 +751,7 @@ game (
 )
 
 game (
-	name "Ancient Art Of War, The (Europe)"
+	name "Ancient Art of War, The (Europe)"
 	rom ( name "AncientArtOfWar_v1.1.lha" size 384115 crc C5E2D33E sha1 d4ae5b72e0a6de02e86a10906ff93e464fd61918 )
 )
 
@@ -811,7 +811,7 @@ game (
 )
 
 game (
-	name "Antares - Der Griff Nach Den Sternen (Germany)"
+	name "Antares - Der Griff nach den Sternen (Germany)"
 	rom ( name "AntaresDerGriffNachDenSternen_v1.0_De.lha" size 1828283 crc 252E4635 sha1 d4b7ef3bc56b933bfbdb8763226857516c00fcfb )
 )
 
@@ -1722,12 +1722,12 @@ game (
 
 game (
 	name "Battle Squadron - The Destruction of the Barrax Empire! (Europe)"
-	rom ( name "BattleSquadron_v1.7_0941.lha" size 874662 crc 41743132 sha1 4850d1fb315653b27545f964b2ba7f9f3821405e )
+	rom ( name "BattleSquadron_v1.8_0941.lha" size 875167 crc 86936407 sha1 38bc3833b0f701b02af0df1c42dff4bba317d8d4 )
 )
 
 game (
 	name "Battle Squadron - The Destruction of the Barrax Empire! (USA)"
-	rom ( name "BattleSquadron_v1.7_NTSC_0942.lha" size 892067 crc DC294F9B sha1 c2a38716ee5733a63a388d6c3e3d75e7d6dfd366 )
+	rom ( name "BattleSquadron_v1.8_NTSC_0942.lha" size 875074 crc DD2FD406 sha1 0bfb537b7ed4bb104600d3e8b3b711f841199aab )
 )
 
 game (
@@ -3433,7 +3433,7 @@ game (
 
 game (
 	name "Circus Attractions (Europe)"
-	rom ( name "CircusAttractions_v1.1a_0450.lha" size 640529 crc 3A10BF8B sha1 689effffc794f96ec8bf113469bad0e1fe3f150c )
+	rom ( name "CircusAttractions_v1.2_0450.lha" size 654773 crc 964ADEB2 sha1 8ab91a5872525b39339e1b294448acb6e1b7bac9 )
 )
 
 game (
@@ -7796,12 +7796,12 @@ game (
 )
 
 game (
-	name "Hagar the Horrible (Europe)"
+	name "Hägar the Horrible (Europe)"
 	rom ( name "HagarTheHorrible_v1.0_1967.lha" size 1164663 crc EFA67DBE sha1 99a87dba0bc61fbe28f0fa46a19c500708219b85 )
 )
 
 game (
-	name "Hagar the Horrible (Germany)"
+	name "Hägar the Horrible (Germany)"
 	rom ( name "HagarTheHorrible_v1.0_De.lha" size 1113327 crc C8D0D492 sha1 4a4b621b0da8d7b1a8b4d0a9bd5b533ca5807c23 )
 )
 
@@ -7821,12 +7821,12 @@ game (
 )
 
 game (
-	name "Hanse - Die Expedition (Germany)"
+	name "Hanse (Germany) (OCS)"
 	rom ( name "Hanse_v1.01_De.lha" size 215029 crc DC11042F sha1 78bad4d8091c3551901fa38c4603d609cb755cb3 )
 )
 
 game (
-	name "Harald Hårdtand i 'Kampen Om De Rene Tænder' (Denmark)"
+	name "Harald Hårdtand i 'Kampen om de Rene Tænder' (Denmark)"
 	rom ( name "HaraldHaardtand_v1.2_Dk.lha" size 799751 crc FA6CC8C3 sha1 d84b61fce89fc73668c2799c6f56cd663ea1e460 )
 )
 
@@ -11156,7 +11156,7 @@ game (
 
 game (
 	name "Mega Typhoon (Europe)"
-	rom ( name "MegaTyphoon_v1.4.lha" size 586923 crc 6515B526 sha1 f449b82a4707679a600d8e5fe0c58d297d81a2ff )
+	rom ( name "MegaTyphoon_v1.5.lha" size 587017 crc 9E4C1615 sha1 5f80e3b5c14cb639ce97504f46f3f5cdd2a0aff7 )
 )
 
 game (
@@ -14041,7 +14041,7 @@ game (
 )
 game (
 	name "Renegade (Europe) (AGA)"
-	rom ( name "Renegade_v1.1_AGA.lha" size 1104027 crc 9674E761 sha1 00041fcee31ca0277d1fc11487021308fc249399 )
+	rom ( name "Renegade_v1.2_AGA.lha" size 1104510 crc D063634E sha1 a1b2689c5e8177ffa37c999eac659e63b2ead9de )
 )
 
 game (
@@ -19972,17 +19972,17 @@ game (
 
 game (
 	name "Dig Dug 2 (Europe) (PD/Freeware)"
-	rom ( name "DigDug2_v1.01.lha" size 319990 crc C347C1CE sha1 4b4d3d3dcb8fb4a2434c1e5c57c01310ad808597 )
+	rom ( name "DigDug2_v1.02.lha" size 320070 crc 439BE027 sha1 753aded4e9b96d1eba43c2f94e829a39727816b0 )
 )
 
 game (
 	name "Dig Dug 2 (Europe) (AGA) (PD/Freeware)"
-	rom ( name "DigDug2_v1.01_AGA.lha" size 308548 crc 5001983A sha1 7065135870cef7e5a3b38b1739796be30e969a77 )
+	rom ( name "DigDug2_v1.02_AGA.lha" size 308580 crc 477BAD34 sha1 5a58278fed1292ce292e9c8acd02b76fbbf7a22f )
 )
 
 game (
 	name "Donkey Kong 500 (Europe) (PD/Freeware)"
-	rom ( name "DonkeyKong_v1.0.lha" size 185879 crc C873BB2A sha1 8ea6a9460fa45861799881f979a3fe0c6c847944 )
+	rom ( name "DonkeyKong_v1.2.lha" size 187368 crc EF84CBE3 sha1 134e5477c982d9729e9aedf44f479edf4b691509 )
 )
 
 game (
@@ -20048,6 +20048,11 @@ game (
 game (
 	name "Ghost Battle (Europe) (older ver)"
 	rom ( name "GhostBattle_v1.3.lha" size 968772 crc 738A43FC sha1 e868a10bfc541ae797744c4b66db1a64a1af8113 )
+)
+
+game (
+	name "Ghosts'n Goblins (Europe) (AGA)"
+	rom ( name "GhostsNGoblins_v0.93_AGA.lha" size 2125337 crc 4EA4213D sha1 c46e568dfbb937b8a16963b289c78f5b61e49606 )
 )
 
 game (
@@ -20417,12 +20422,12 @@ game (
 
 game (
 	name "U.S. Championship V'Ball (Europe)"
-	rom ( name "USChampionshipVBall_v1.01.lha" size 2584642 crc F88EBAA2 sha1 56af42f35c7e3d6790e0a0c94c95c8a9b7ea8d04 )
+	rom ( name "USChampionshipVBall_v1.10.lha" size 2619476 crc E6B7A4AE sha1 d59747fd04507ae3836d82591c32993e9845d633 )
 )
 
 game (
 	name "U.S. Championship V'Ball (Europe) (AGA)"
-	rom ( name "USChampionshipVBall_v1.01_AGA.lha" size 5744506 crc CD5EE499 sha1 44afc16b65149110f731d3009afd71c366132782 )
+	rom ( name "USChampionshipVBall_v1.10_AGA.lha" size 5815872 crc 52F6E92A sha1 aea37bf233191b2c1c2e256fe6f348bd983586d0 )
 )
 
 game (

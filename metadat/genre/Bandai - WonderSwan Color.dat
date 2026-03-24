@@ -413,7 +413,7 @@ game (
 
 game (
 	comment "Rhyme Rider Kerorican (Japan)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 60706555 )
 )
 

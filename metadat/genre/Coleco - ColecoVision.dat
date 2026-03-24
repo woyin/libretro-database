@@ -131,7 +131,7 @@ game (
 
 game (
 	comment "Brain Strainers (USA)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 829C967D )
 )
 
@@ -251,7 +251,7 @@ game (
 
 game (
 	comment "Dance Fantasy (USA)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc BFF86A98 )
 )
 

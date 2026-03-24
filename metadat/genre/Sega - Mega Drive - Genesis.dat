@@ -29,7 +29,7 @@ game (
 
 game (
 	comment "16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc 67271302 )
 )
 
@@ -7571,7 +7571,7 @@ game (
 
 game (
 	comment "Miracle Piano Teaching System, The (USA)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc A719542E )
 )
 
@@ -11165,55 +11165,55 @@ game (
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-05-25)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 8E8DADD0 )
 )
 
 game (
 	comment "Sonic & Knuckles (World)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 0658F691 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-06-06)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 03A52F63 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-06-08)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 7A6C1317 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-06-10)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 7092F368 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-06-12)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc B0A253E8 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-06-18)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 2615F5DC )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Beta) (1994-06-19)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc 1EA5B9D1 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Sonic Classic Collection)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc C7249CDF )
 )
 
@@ -11225,7 +11225,7 @@ game (
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En)"
-	genre "Shoot'em Up"
+	genre "Platform"
 	rom ( crc B6C67EAC )
 )
 

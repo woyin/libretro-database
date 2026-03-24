@@ -449,7 +449,7 @@ game (
 
 game (
 	comment "Melody Blaster (USA, Europe)"
-	genre "Music and Dance"
+	genre "Music / Dancing"
 	rom ( crc FF68AA22 )
 )
 
