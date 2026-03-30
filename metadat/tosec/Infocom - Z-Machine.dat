@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Infocom - Z-Machine"
 	description "Infocom - Z-Machine"
-	version "2026.01.17"
+	version "2026.03.30"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -324,7 +324,7 @@ game (
 game (
 	name "Leather Goddesses of Phobos SG v4 (Infocom) (Alt 1)[880405]"
 	releaseyear "1986"
-	rom ( name "LEATHER.DAT" size 159928 crc 612B4932 md5 A2915D33DFA3E029B727684E734DE303 sha1 4E8412D7974997CEA4A5FFE18F57F71A80DC8402 )
+	rom ( name "SPACESHI" size 17193 crc 94E2BBC2 md5 9F3041F7149BEA9A0CD7E7CF3C23D595 sha1 9A599E510DEE7E2AE848F4F2F522005D762D908E )
 )
 game (
 	name "Leather Goddesses of Phobos v160 (Infocom)[h][860521]"

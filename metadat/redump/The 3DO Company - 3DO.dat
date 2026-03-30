@@ -1,7 +1,7 @@
 clrmamepro (
 	name "The 3DO Company - 3DO"
 	description "The 3DO Company - 3DO"
-	version "2026.01.17"
+	version "2026.03.30"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 

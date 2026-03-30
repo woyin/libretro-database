@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sony - PlayStation 2"
 	description "Sony - PlayStation 2"
-	version "2026.01.17"
+	version "2026.03.30"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -3316,8 +3316,8 @@ game (
 game (
 	name "Arena Football - Road to Glory (USA)"
 	region "USA"
-	serial "SLUS-21568"
-	rom ( name "Arena Football - Road to Glory (USA).iso" size 4642078720 crc 51EABFC8 md5 7E1C0D9CBF00A5FD3009A43B57352C65 sha1 76EE647F2AB9AD84D20B50DD5CC0A80FFA1767FB serial "SLUS-21568" )
+	serial "SLUS21568"
+	rom ( name "Arena Football - Road to Glory (USA).iso" size 4642078720 crc 51EABFC8 md5 7E1C0D9CBF00A5FD3009A43B57352C65 sha1 76EE647F2AB9AD84D20B50DD5CC0A80FFA1767FB serial "SLUS21568" )
 )
 game (
 	name "Argus Zhanshi (Asia)"

@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Interton - VC 4000"
 	description "Interton - VC 4000"
-	version "2026.01.25"
+	version "2026.03.30"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -139,11 +139,6 @@ game (
 	name "Labyrinth (Europe)"
 	region "Europe"
 	rom ( name "Labyrinth (Europe).bin" size 2048 crc 7B2B2B61 md5 C303FE548504FB0029F764875A15CA99 sha1 A1ABF569F458DDE8AEFE11DF5A4603DA96C82E49 )
-)
-game (
-	name "Labyrinth (Europe) (Unknown)"
-	region "Europe"
-	rom ( name "Labyrinth (Europe) (Unknown).bin" size 2048 crc 4D3F9CFB md5 CEE762D329819B3F2AD2EC3FD4D46A81 sha1 B8CBA1672F5B7286E8895FC6E6C46BBB54FB3F46 )
 )
 game (
 	name "Laser Attack (Europe)"

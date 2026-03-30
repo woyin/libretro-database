@@ -1,7 +1,7 @@
 clrmamepro (
 	name "Sega - Mega-CD - Sega CD"
 	description "Sega - Mega-CD - Sega CD"
-	version "2026.01.17"
+	version "2026.03.30"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
